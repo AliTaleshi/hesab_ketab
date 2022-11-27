@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'Hesab_Ketab_422.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'hesba_ketab_422_db',
+        'NAME': 'hesab_ketab_422_db',
         'USER': 'postgres',
         'PASSWORD': 'Ali2610989',
         'HOST': 'localhost',
